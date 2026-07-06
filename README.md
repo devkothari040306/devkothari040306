@@ -220,6 +220,8 @@ Designed to help users make more confident purchase decisions by visualizing out
 |---|---|
 | 🧠 AI Fundamentals | NVIDIA |
 | ☁️ Azure Fundamentals | Microsoft |
+| 🔒 Introduction to Cybersecurity | Cisco Networking Academy |
+| ☁️ Google Cloud Engineering | Google |
 
 </div>
 
