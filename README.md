@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://glow-folio-07.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-lake-kappa-91.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev040306)
 [![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkothari040306)
 [![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevKothari040306)
@@ -234,7 +234,7 @@ Designed to help users make more confident purchase decisions by visualizing out
 [![LeetCode](https://img.shields.io/badge/LeetCode-DevKothari040306-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevKothari040306)
 [![GitHub](https://img.shields.io/badge/GitHub-devkothari040306-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkothari040306)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev040306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev040306)
-[![Portfolio](https://img.shields.io/badge/Portfolio-glow--folio--07-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://glow-folio-07.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-glow--folio--07-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-lake-kappa-91.vercel.app/)
 
 </div>
 
