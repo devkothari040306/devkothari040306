@@ -81,6 +81,7 @@ I'm currently open to **Software Engineering**, **Full Stack**, **Backend**, and
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -120,7 +121,7 @@ I'm currently open to **Software Engineering**, **Full Stack**, **Backend**, and
 | 🔌 REST API | Well-structured, secured API endpoints |
 | 🗄️ MongoDB | Flexible, scalable data storage |
 | 📤 Image Upload | Multer-powered image handling |
-| 🧠 AI Integration | AI/ML model integration for try-on logic |
+| 🧠 AI Integration | Hugging Face IDM-VTON model integration |
 
 **🧰 Tech Stack**
 
@@ -200,10 +201,9 @@ Designed to help users make more confident purchase decisions by visualizing out
 ### Full Stack Developer Intern — **SAG Infotech**
 📍 Remote &nbsp;|&nbsp; 🗓️ July 2026 – Present
 
-- Contributing to **live, production-facing projects** as part of the full stack development team.
-- Building and maintaining **frontend interfaces** with a focus on usability and performance.
-- Developing and integrating **backend services and REST APIs** to support core application features.
-- Collaborating within an engineering team to follow **enterprise-grade development practices**, code review workflows, and deployment standards.
+- Building and configuring full **CRUD REST APIs** (Save, Update, Delete, Get All, Get By ID) in Java on **GenCodex**, SAG Infotech's AI-powered Low-Code/No-Code platform, including database connections and entity generation.
+- Configuring **SAG Grid** components in Angular (properties, headers, pagination) and implementing **Reactive Form validation** via FormGroup bindings.
+- Engineering **frontend-backend API mapping**, binding Angular services to auto-generated Java APIs with real-time grid data and toast notifications.
 - Gaining hands-on exposure to **real-world software development lifecycles** beyond academic and personal projects.
 
 </td>
@@ -218,10 +218,9 @@ Designed to help users make more confident purchase decisions by visualizing out
 
 | Certification | Issuer |
 |---|---|
-| 🧠 AI Fundamentals | NVIDIA |
-| ☁️ Azure Fundamentals | Microsoft |
-| 🔒 Introduction to Cybersecurity | Cisco Networking Academy |
-| ☁️ Google Cloud Engineering | Google |
+| 💻 Advanced Software Engineering | Walmart (Forage) |
+| 🧠 Generative AI Explained | NVIDIA |
+| ☁️ Google Cloud Engineering Certificate | Google Cloud |
 
 </div>
 
@@ -234,7 +233,7 @@ Designed to help users make more confident purchase decisions by visualizing out
 [![LeetCode](https://img.shields.io/badge/LeetCode-DevKothari040306-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/DevKothari040306)
 [![GitHub](https://img.shields.io/badge/GitHub-devkothari040306-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devkothari040306)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dev040306-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev040306)
-[![Portfolio](https://img.shields.io/badge/Portfolio-glow--folio--07-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-lake-kappa-91.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-personal--portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-portfolio-lake-kappa-91.vercel.app/)
 
 </div>
 
